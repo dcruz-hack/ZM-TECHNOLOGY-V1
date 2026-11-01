@@ -37,7 +37,7 @@ class CameraService {
       uiSettings: [
         AndroidUiSettings(
           toolbarTitle: 'Ajustar imagen',
-          toolbarColor: const Color(0xFF101827),
+          toolbarColor: const Color.fromARGB(255, 17, 25, 41),
           toolbarWidgetColor: const Color(0xFFFFFFFF),
           lockAspectRatio: false,
         ),
