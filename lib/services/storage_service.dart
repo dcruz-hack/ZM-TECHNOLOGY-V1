@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
 
-/// Persistencia local sencilla para conservar el catálogo serializado.
+/// Persistencia local sencilla.
 class StorageService {
   static const _catalogKey = 'zm_catalog_cache_v1';
 
