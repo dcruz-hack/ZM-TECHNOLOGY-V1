@@ -45,7 +45,7 @@ class HomeScreen extends StatelessWidget {
         actions: [
           IconButton(tooltip: 'Probar notificación', icon: const Icon(Icons.notifications_active_outlined),
             onPressed: () => app.notifications.showEvent(
-              title: 'ZM TECHNOLOGY PRO', body: 'Las notificaciones locales están funcionando.')),
+              title: 'ZM TECHNOLOGY V1', body: 'Las notificaciones locales están funcionando.')),
           const SizedBox(width: 4),
         ],
       ),

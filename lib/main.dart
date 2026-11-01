@@ -20,7 +20,7 @@ class ZmTechnologyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => MaterialApp(
-    title: 'ZM TECHNOLOGY PRO',
+    title: 'ZM TECHNOLOGY V1',
     debugShowCheckedModeBanner: false,
     theme: AppTheme.light,
     home: const HomeScreen(),
