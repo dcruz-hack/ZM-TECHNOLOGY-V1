@@ -1,4 +1,4 @@
-# ZM TECHNOLOGY PRO
+# ZM TECHNOLOGY V1
 
 Aplicación móvil Flutter que moderniza el catálogo de productos de ZM TECHNOLOGY e incorpora servicios nativos de conectividad, cámara/galería y notificaciones locales.
 
@@ -40,7 +40,7 @@ Los servicios se encuentran en `lib/services/` y no dependen de widgets. `AppPro
 ## Instalación y ejecución
 
 
-git clone <URL_PUBLICA_DEL_REPOSITORIO>
+git clone <https://github.com/dcruz-hack/ZM-TECHNOLOGY-V1.git>
 cd catalogo_flutter
 flutter pub get
 flutter run

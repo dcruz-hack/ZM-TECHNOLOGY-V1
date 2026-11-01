@@ -100,7 +100,7 @@ class HomeScreen extends StatelessWidget {
             ],
           ))),
           const SizedBox(height: 20),
-          const Center(child: Text('ZM TECHNOLOGY PRO · Quito, Ecuador',
+          const Center(child: Text('ZM TECHNOLOGY V1 · Quito, Ecuador',
             style: TextStyle(color: Colors.black45, fontSize: 12))),
         ])),
       ]),
